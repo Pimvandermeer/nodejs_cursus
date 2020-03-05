@@ -1,1 +1,13 @@
 Lees over modules op nodejs.org
+~~~~  alt + n
+
+npm init   creates package.json file
+npm outdated checked of er oude packages zijn
+npm install checked de package.json file en installeerf alles
+
+
+
+
+
+
+package TONE checken

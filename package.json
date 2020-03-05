@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pimvandermeer/nodejs_cursus.git"
+  },
+  "author": "Pim van der Meer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pimvandermeer/nodejs_cursus/issues"
+  },
+  "homepage": "https://github.com/Pimvandermeer/nodejs_cursus#readme",
+  "dependencies": {
+    "slugify": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
